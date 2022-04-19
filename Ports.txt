@@ -1,0 +1,13 @@
+Services 
+  --Web:5010
+ --CatalogAPI:5011
+ --PhotoStock:5012
+ --Basket:5013
+ --Discount:5014
+ --Order:5015
+ --FakePayment:5016
+ --Gateway => 5000
+
+
+IdentityServer:5001
+ 
